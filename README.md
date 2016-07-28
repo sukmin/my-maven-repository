@@ -7,5 +7,5 @@
 그 방법은 쉽다. 아래를 따라서...
 
 ## 참고
-http://javacan.tistory.com/entry/%EA%B8%B0%EC%96%B5%EC%9A%A9-Maven-%EC%A4%91%EC%95%99-%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%A7%8C%EB%93%A4%EA%B3%A0-Maven-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0
-http://blog.naver.com/PostView.nhn?blogId=pky0706&logNo=140146609820
+* http://javacan.tistory.com/entry/%EA%B8%B0%EC%96%B5%EC%9A%A9-Maven-%EC%A4%91%EC%95%99-%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%A7%8C%EB%93%A4%EA%B3%A0-Maven-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0
+* http://blog.naver.com/PostView.nhn?blogId=pky0706&logNo=140146609820
